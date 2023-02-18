@@ -30,6 +30,8 @@ public class SearchProductNgClass extends Browser {
 /*	@BeforeClass
 	public void beforeClass()
 	{
+		
+		System.out.println("Before Class");
 		System.out.println("Before Class");
 		System.setProperty("webdriver.chrome.driver", "D:\\Automation_fileFolder\\chromedriver.exe");
 		driver= new ChromeDriver();
