@@ -66,7 +66,7 @@ public class SearchProductNgClass extends Browser {
 	@BeforeMethod
 	public void beforeMethod()
 	{
-		System.out.println("Before Method");System.out.println("Before Method");System.out.println("Before Method");
+		System.out.println("Before Method");
 		driver.get("https://www.amazon.com/");
 		
 	}
