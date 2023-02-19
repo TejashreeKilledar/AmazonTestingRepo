@@ -102,6 +102,9 @@ public class SearchProductNgClass extends Browser {
 	public void afterMethod()
 	{
 		System.out.println("After Method");
+		System.out.println("After Method");
+		System.out.println("After Method");
+		System.out.println("After Method");
 		//driver.close();
 	}
 	
