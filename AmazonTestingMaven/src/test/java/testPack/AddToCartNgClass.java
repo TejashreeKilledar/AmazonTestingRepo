@@ -36,6 +36,7 @@ public class AddToCartNgClass extends Browser{
 	{
 		System.out.println("Open Browser before excute the test method..");
 		System.out.println("Open Browser before excute the test method..");
+		System.out.println("Open Browser before excute the test method..");
 		if(browserName.equals("Chrome"))
 		{
 			//System.setProperty("webdriver.chrome.driver", "D:\\Automation_fileFolder\\chromedriver.exe");
